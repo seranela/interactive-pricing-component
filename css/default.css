@@ -40,6 +40,7 @@ p {
 body {
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
 	align-items: center;
 	font: 600 0.9375rem var(--font-stack);
 	background:
